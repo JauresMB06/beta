@@ -1,0 +1,13 @@
+symptoms,disease
+fever,covid
+fever,malaria
+fever,flu
+cough,covid
+cough,flu
+chest pain,heart attack
+chest pain,angina
+headache,flu
+headache,malaria
+headache,migraine
+shortness of breath,asthma
+shortness of breath,heart failure

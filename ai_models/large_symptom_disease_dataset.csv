@@ -1,0 +1,9 @@
+symptoms,disease
+fever|cough|headache,flu
+fever|chills|sweating,malaria
+cough|shortness of breath|fatigue,covid
+chest pain|nausea|sweating,heart attack
+headache|sensitivity to light,migraine
+rash|fever|joint pain,dengue
+abdominal pain|vomiting|diarrhea,food poisoning
+...

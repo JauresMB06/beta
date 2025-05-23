@@ -1,0 +1,5 @@
+symptoms,age,gender,history,disease
+fever|cough|headache,25,male,asthma,flu
+fever|chills|sweating,32,female,none,malaria
+cough|fatigue,45,male,hypertension,covid
+...
